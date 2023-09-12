@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Toolbox JetBrains
+Comment=Toolbox
+Exec=/home/shared-apps/jetbrains-toolbox
+Icon=/home/shared-apps/jetbrains-toolbox-icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
